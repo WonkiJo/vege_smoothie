@@ -1,5 +1,98 @@
 [
   {
+    "name": "브로콜리 청경채 아보카도 스무디",
+    "ingredients": {
+      "물": { "amount": 750, "unit": "mL" },
+      "알룰로스": { "amount": 4, "unit": "T" },
+      "레몬즙": { "amount": 90, "unit": "mL" },
+      "브로콜리": { "amount": 1, "unit": "개" },
+      "청경채": { "amount": 300, "unit": "g" },
+      "아보카도": { "amount": 3, "unit": "개" }
+    }
+  },
+  {
+    "name": "양배추 브로콜리 아보카도 스무디",
+    "ingredients": {
+      "물": { "amount": 750, "unit": "mL" },
+      "알룰로스": { "amount": 4, "unit": "T" },
+      "레몬즙": { "amount": 90, "unit": "mL" },
+      "브로콜리": { "amount": 1, "unit": "개" },
+      "양배추": { "amount": 300, "unit": "g" },
+      "아보카도": { "amount": 3, "unit": "개" }
+    }
+  },
+  {
+    "name": "청경채 컬리플라워 시금치 아보카도 스무디",
+    "ingredients": {
+      "물": { "amount": 750, "unit": "mL" },
+      "알룰로스": { "amount": 3, "unit": "T" },
+      "레몬즙": { "amount": 90, "unit": "mL" },
+      "컬리플라워": { "amount": 300, "unit": "g" },
+      "청경채": { "amount": 300, "unit": "g" },
+      "시금치": { "amount": 200, "unit": "g" },
+      "아보카도": { "amount": 3, "unit": "개" }
+    }
+  },
+  {
+    "name": "청경채 컬리플라워 시금치 아보카도 스무디",
+    "ingredients": {
+      "물": { "amount": 750, "unit": "mL" },
+      "알룰로스": { "amount": 4, "unit": "T" },
+      "레몬즙": { "amount": 90, "unit": "mL" },
+      "브로콜리": { "amount": 1, "unit": "개" },
+      "양배추": { "amount": 300, "unit": "g" },
+      "미나리": { "amount": 200, "unit": "g" },
+      "아보카도": { "amount": 3, "unit": "개" }
+    }
+  },
+  {
+    "name": "양배추 브로콜리 애호박 토마토 스무디",
+    "ingredients": {
+      "물": { "amount": 500, "unit": "mL" },
+      "알룰로스": { "amount": 2, "unit": "T" },
+      "레몬즙": { "amount": 60, "unit": "mL" },
+      "브로콜리": { "amount": 1, "unit": "개" },
+      "양배추": { "amount": 300, "unit": "g" },
+      "애호박": { "amount": 1, "unit": "개" },
+      "토마토": { "amount": 2, "unit": "개" }
+    }
+  },
+  {
+    "name": "청경채 브로콜리 애호박 토마토 스무디",
+    "ingredients": {
+      "물": { "amount": 500, "unit": "mL" },
+      "알룰로스": { "amount": 2, "unit": "T" },
+      "레몬즙": { "amount": 60, "unit": "mL" },
+      "브로콜리": { "amount": 1, "unit": "개" },
+      "청경채": { "amount": 300, "unit": "g" },
+      "애호박": { "amount": 1, "unit": "개" },
+      "토마토": { "amount": 2, "unit": "개" }
+    }
+  },
+  {
+    "name": "컬리플라워 양배추 애호박 토마토 스무디",
+    "ingredients": {
+      "물": { "amount": 500, "unit": "mL" },
+      "알룰로스": { "amount": 2, "unit": "T" },
+      "레몬즙": { "amount": 60, "unit": "mL" },
+      "양배추": { "amount": 300, "unit": "g" },
+      "컬리플라워": { "amount": 300, "unit": "g" },
+      "애호박": { "amount": 1, "unit": "개" },
+      "토마토": { "amount": 2, "unit": "개" }
+    }
+  },
+  {
+    "name": "컬리플라워 배추 애호박 토마토 스무디",
+    "ingredients": {
+      "물": { "amount": 500, "unit": "mL" },
+      "알룰로스": { "amount": 1, "unit": "T" },
+      "배추": { "amount": 500, "unit": "g" },
+      "컬리플라워": { "amount": 300, "unit": "g" },
+      "애호박": { "amount": 1, "unit": "개" },
+      "토마토": { "amount": 2, "unit": "개" }
+    }
+  },
+  {
     "name": "브로콜리 아보카도 스무디",
     "ingredients": {
       "물": { "amount": 550, "unit": "mL" },
@@ -147,6 +240,16 @@
       "아보카도": { "amount": 0.5, "unit": "개" },
       "애호박": { "amount": 1, "unit": "개" },
       "토마토": { "amount": 2, "unit": "개" }
+    }
+  },
+  {
+    "name": "배추 청경채 애호박 비트 스무디",
+    "ingredients": {
+      "물": { "amount": 500, "unit": "mL" },
+      "배추": { "amount": 500, "unit": "g" },
+      "청경채": { "amount": 300, "unit": "g" },
+      "비트": { "amount": 2, "unit": "개" },
+      "애호박": { "amount": 1, "unit": "개" }
     }
   }
 ]
